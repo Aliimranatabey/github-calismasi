@@ -1,7 +1,7 @@
 class Calculator:
     def execute(self, a, b):
-        x = a + b
-        y = a - b
-        total = x + y
+        c=3+5
+        d=6-2
+        total=c+d
         return a*b*total
         pass
