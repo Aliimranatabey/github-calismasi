@@ -1,4 +1,4 @@
 class Calculator:
     def execute(self, a, b):
-        # İşlem buraya gelecek
+        return a + b
         pass
